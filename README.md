@@ -18,3 +18,17 @@ Built on WebRTC DataChannels, found in Chrome, Firefox, and even Chrome for Andr
 Support for streaming HTML5 video
 Support for larger files
 
+#Building:
+
+Dealer.js is under heavy development. We don't recommend trying to run it yourself yet.
+
+npm install -d
+
+node bin/build.js
+Running:
+
+<script src="dist/dealer.js"></script>
+
+Thanks for checking out PeerKit. We're working on improving documentation and code comments.
+#http://dealerjs.com
+
